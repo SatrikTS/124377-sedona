@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Satrik Satrik](https://htmlacademy.ru/profile/id124377).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров](https://htmlacademy.ru/profile/id124377).
 
 ---
 
